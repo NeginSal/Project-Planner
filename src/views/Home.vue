@@ -12,7 +12,7 @@
 import SingleProject from "../components/SingleProject.vue";
 export default {
   name: "Home",
-  components: { SingleProject },
+  components: { SingleProject},
   data() {
     return {
       projects: [],
