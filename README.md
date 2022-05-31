@@ -5,6 +5,11 @@
 npm install
 ```
 
+### Using Json Server
+before `npm run serve` open new terminal and type:
+
+`json-server --watch data/db.json` .
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
